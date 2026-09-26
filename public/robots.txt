@@ -1,0 +1,6 @@
+# Robots.txt for Rithesh Kumar Nyamathabad Portfolio
+# Replace YOUR-DOMAIN.com with your production domain
+User-agent: *
+Allow: /
+
+Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
